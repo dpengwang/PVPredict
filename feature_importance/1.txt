@@ -1,0 +1,8 @@
+辐照度              795
+辐照度1_increase    658
+from1230         400
+风速1_increase     294
+温度1_increase     283
+湿度1_increase     151
+风向1_increase      71
+压强1_increase      45
