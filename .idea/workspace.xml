@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="634d2c4d-4341-4511-a243-74cc8684353a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="634d2c4d-4341-4511-a243-74cc8684353a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +52,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="72">
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -222,6 +220,11 @@
               <item name="PhotovoltaicPower" type="b2602c69:ProjectViewProjectNode" />
               <item name="PhotovoltaicPower" type="462c0819:PsiDirectoryNode" />
               <item name="Draw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PhotovoltaicPower" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhotovoltaicPower" type="462c0819:PsiDirectoryNode" />
+              <item name="MapData" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PhotovoltaicPower" type="b2602c69:ProjectViewProjectNode" />
@@ -441,15 +444,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.14398943" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.14398943" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32952926" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.30581242" side_tool="true" weight="0.28673324" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.32952926" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32952926" />
       <window_info anchor="bottom" id="Run" order="10" sideWeight="0.6941876" weight="0.29243937" />
       <window_info id="Structure" order="1" sideWeight="0.5019685" side_tool="true" weight="0.13870542" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.614836" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.53067046" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.5420827" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -846,8 +850,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="72">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
